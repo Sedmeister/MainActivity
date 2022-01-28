@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="work_experience">Work Experience</string>
+    <string name="graduate_android_developer_nabsa_group_limited_nmay_2021_present_ntasks_development_testing_proof_of_concepts_converting_linear_layouts_to_constraint_layouts_unit_testing">Graduate Android Developer \nABSA Group Limited \nMay 2021-Present\nTasks: Development Testing, Proof of Concepts, Converting Linear Layouts to Constraint Layouts, Unit Testing</string>
+    <string name="ncandidate_fellow_n_allan_gray_orbis_foundation_njanuary_2017_december_2021_ntasks_participating_in_various_activities_that_contribute_to_personal_academic_and_entrepreneurial_development_this_was_my_scholarship_program_for_university">\nCandidate Fellow \n Allan Gray Orbis Foundation \nJanuary 2017-December 2021\nTasks: Participating in various activities that contribute to personal academic and entrepreneurial development, this was my scholarship program for University.</string>
+    <string name="nfinancial_assistant_n_q_fit_napril_2020_july_2020_ntasks_i_worked_overseeing_the_finances_of_an_online_fitness_start_up">\nFinancial Assistant \n Q-Fit \nApril 2020-July 2020\nTasks: I worked overseeing the finances of an online fitness start-up</string>
+    <string name="education">Education</string>
+    <string name="university_of_witwatersrand_ncertificate_n2021_nmajor_priniciples_of_project_management">University of Witwatersrand \nCertificate \n2021\nMajor: Priniciples of Project Management</string>
+    <string name="bracken_high_school_nmatric_n2016_ngrade_80">Bracken High School \nMatric \n2016\nGrade: 80%</string>
+    <string name="university_of_pretoria_nbachelor_of_commerce_in_economics_n2018_2021_nmajors_economics_and_statistics">University of Pretoria \nBachelor of Commerce in Economics \n2018–2021\nMajors: Economics and Statistics</string>
+    <string name="university_of_witwatersrand_ncertificate_n2021_nmajor_customer_relationship_building">University of Witwatersrand \nCertificate \n2021\nMajor: Customer Relationship Building</string>
+    <string name="Lesedi_CV">sedicv</string>
+    <string name="email_lesedi">Email Lesedi</string>
+    <string name="junior_android_developer">Junior Android Developer</string>
+    <string name="lesedi_kgosi">Lesedi Kgosi</string>
+    <string name="sedi">sedi</string>
+</resources>
